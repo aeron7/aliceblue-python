@@ -1,0 +1,4 @@
+requests_oauthlib==1.2.0
+Flask==1.0.2
+requests==2.18.4
+websocket_client==0.54.0
