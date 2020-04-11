@@ -1,4 +1,4 @@
-## This program is written in Flask. 
+## This program is written in Flask and will work flawlessly for people who are under subbrokership of Unofficed. 
 
 - Tested with Python 3.6.7
 - Recommended Python 3.6 or higher version
