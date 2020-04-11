@@ -1,9 +1,12 @@
-## This program is written in Flask and will work flawlessly for people who are under subbrokership of Unofficed. 
+## This program is written in Flask. 
 
 - Tested with Python 3.6.7
 - Recommended Python 3.6 or higher version
 - Needs to run with sudo as redirect url is set to run on port 80
-- For any help, raise a ticket at https://forum.unofficed.com/
+
+## Support of Coding:
+- Support is limited to the people who are under subbrokership of Unofficed. For any help, raise a ticket at https://forum.unofficed.com/
+- Otherwise, Please contact Aliceblue customer care. It is not possible to reply every Aliceblue customer.
 
 ## Install packages:
 
