@@ -1,4 +1,4 @@
-Deprecated: Unofficed is no longer a partner of Aliceblue. We will not provide any support, and no further updates or code maintenance will be done.
+Deprecated: [Unofficed](https://www.unofficed.com/) is no longer a partner of Aliceblue. We will not provide any support, and no further updates or code maintenance will be done.
 
 ## This program is written in Flask. 
 
