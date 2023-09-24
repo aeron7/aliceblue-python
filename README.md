@@ -1,3 +1,5 @@
+Deprecated: Unofficed is no longer a partner of Aliceblue. We will not provide any support, and no further updates or code maintenance will be done.
+
 ## This program is written in Flask. 
 
 - Tested with Python 3.6.7
